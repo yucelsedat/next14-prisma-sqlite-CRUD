@@ -3,7 +3,7 @@
 import { createPost } from '@/actions/actions'
 import { LogoutLink } from '@kinde-oss/kinde-auth-nextjs'
 
-export default async function Page() {
+export default async function CreatePost() {
 
   return (
     <main className='text-center pt-16 '>
