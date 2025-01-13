@@ -11,7 +11,7 @@ export default async function CreatePost() {
         Create Post
       </h1>
       <form 
-        className='max-w-[300px] mx-auto flex flex-col gap-2 mb-4'
+        className='max-w-[400px] mx-auto flex flex-col gap-2 mb-4'
         action={createPost}
       >
         <input 
